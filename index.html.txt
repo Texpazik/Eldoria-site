@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Добро пожаловать в Eldaria</title>
+  <style>
+    body { background-color: #111; color: white; font-family: sans-serif; padding: 20px; }
+    .button { background: #0aa; padding: 10px; border-radius: 5px; color: white; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <h1>Игровой портал Eldaria</h1>
+  <p>Создан POPA в Roblox Studio</p>
+  <a class="button" href="https://www.roblox.com/games/ID">Играть сейчас</a>
+</body>
+</html>
